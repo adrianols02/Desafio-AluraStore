@@ -42,5 +42,19 @@ Os dados utilizados neste projeto estão disponíveis publicamente no GitHub da 
   - Python: Linguagem principal utilizada para manipulação e visualização dos dados.
   - Pandas: Tratamento e análise de dados tabulares.
   - Matplotlib: Geração de gráficos estáticos.
-  
-</ul>
+## Gráficos
+### Faturamento total por Loja
+
+![faturamentoTotal](https://github.com/user-attachments/assets/68a0e0b9-226a-4823-8972-326ecf81faf8)
+
+### Vendas por Categoria
+
+![Vendas_categorias](https://github.com/user-attachments/assets/24036a89-c0f7-4b49-9c95-94acb0cfda48)
+
+### Média de Avaliação das Lojas
+![MediaAvaliacao](https://github.com/user-attachments/assets/3d2cf35c-f5d7-4a48-ba72-1ed5a3656daa)
+
+### Frete Médio por Loja
+![FreteMedio](https://github.com/user-attachments/assets/a37ee195-633d-4cf6-86c2-a6ea704d017c)
+
+
